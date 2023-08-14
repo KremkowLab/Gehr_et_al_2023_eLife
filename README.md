@@ -12,4 +12,4 @@ This repository contains the following files to reporduce the main figure in the
 
 /Code/: .ipynb files to plot the 5 main figures
 
-To reproduce the figures, download the repository and in 'Data' folder adjust the 'data_dir' in the .ipynb files to the corresponding downloaded directory. 
+To reproduce the figures, download the repository and adjust the 'data_dir'. 
